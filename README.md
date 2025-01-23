@@ -1,9 +1,9 @@
 ## Bem vindo Jovem Padawan, ao meu lado Code da força!👋
 ![_a50be9ac-0209-412f-aad6-350f67f](https://github.com/user-attachments/assets/95cb59eb-9acc-41a5-a67c-e7bbd527c1ef)
  <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/EmilyFilisbino">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmilyFilisbino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyFilisbino&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
