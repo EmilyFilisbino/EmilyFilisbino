@@ -1,5 +1,7 @@
 ## Bem vindo Jovem Padawan, ao meu lado Code da força!👋
-![_a50be9ac-0209-412f-aad6-350f67f](https://github.com/user-attachments/assets/95cb59eb-9acc-41a5-a67c-e7bbd527c1ef)
+
+![Designer](https://github.com/user-attachments/assets/40a7716b-a087-4ce4-9b49-24f602b4d226)
+
  <div>
    <a href="https://github.com/EmilyFilisbino">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmilyFilisbino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -11,3 +13,10 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<div> 
+  <a href="https://instagram.com/emf_tux" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:emilymariafilisbino13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/emily-filisbino-3182501b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
