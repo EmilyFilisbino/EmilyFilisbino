@@ -1,4 +1,4 @@
-## Bem vindo Jovem Padawan, ao meu lado Code da força!👋
+## Bem vindo Jovem Padawan!👋
 
  <div>
    <a href="https://github.com/EmilyFilisbino">
