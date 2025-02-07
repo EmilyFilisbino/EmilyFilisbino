@@ -14,6 +14,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/hasin023/DevIcons/54394134b355c1574d1cd285aba4793f04a0ed2a/icons/python/python-original.svg">
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/hasin023/DevIcons/54394134b355c1574d1cd285aba4793f04a0ed2a/icons/cplusplus/cplusplus-original.svg">
+ <img align="center" alt="Python" height="30" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">
+ 
 </div>
 
 ### 
