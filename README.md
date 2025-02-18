@@ -13,7 +13,7 @@
 
 <img align="right" height="100" src="https://i.redd.it/x4p9u8qpairx.gif"  />
 
-### Linguagens de Estudo
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -33,13 +33,13 @@
 
 <div align="left">
   <a href="https://instagram.com/emf_tux" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=emf.tux&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="30" alt="instagram logo"  />
-  </a>
-  <a href="emilymariafilisbino13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=emf.tux&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="26" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/emily-filisbino-3182501b7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=gray&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Emily%20Filisbino&logo=linkedin&label=&color=0077B5&logoColor=gray&labelColor=&style=flat" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="emilymariafilisbino13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=emilymariafilisbino13@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
   </a>
 </div>
 
