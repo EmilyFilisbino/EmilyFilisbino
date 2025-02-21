@@ -13,7 +13,7 @@
 
 <img align="right" height="100" src="https://i.redd.it/x4p9u8qpairx.gif"  />
 
-###
+### Linguagens de Estudo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
