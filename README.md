@@ -34,14 +34,14 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/emf_tux" target="_blank">
+  <a href="https://www.instagram.com/emily.filisbino_hopper?igsh=MTVlbHdteWJqdDE1Ng==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EmilyHopper&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="26" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/emily-filisbino-hopper/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Emily%20Filisbino&logo=linkedin&label=&color=0077B5&logoColor=gray&labelColor=&style=flat" height="26" alt="linkedin logo"  />
   </a>
   <a href="emilyfilisbino.debugger@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=emilymariafilisbino13@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=emilyfilisbino.debugger@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
   </a>
 </div>
 
