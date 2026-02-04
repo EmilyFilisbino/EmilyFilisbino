@@ -1,4 +1,4 @@
-<h2 align="left">Seja Bem Vindo Jovem Padawan! 🚀🌠</h2>
+<h2 align="left"> Seja Bem Vindo Jovem Padawan! 🚀 🌠 </h2>
 
 ###
 
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/static/v1?message=EmilyHopper&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="26" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/emily-filisbino-hopper/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Emily%20Filisbino&logo=linkedin&label=&color=0077B5&logoColor=gray&labelColor=&style=flat" height="26" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Emily%20Filisbino%20(Hopper)&logo=linkedin&label=&color=0077B5&logoColor=gray&labelColor=&style=flat" height="26" alt="linkedin logo"  />
   </a>
   <a href="emilyfilisbino.debugger@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=emilyfilisbino.debugger@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="26" alt="gmail logo"  />
